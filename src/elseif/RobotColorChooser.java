@@ -34,6 +34,8 @@ chris.setPenColor(Color.PINK);
 chris.setPenColor(Color.BLACK);
 	
 
+} else {
+	chris.setRandomPenColor();
 }
 
 
